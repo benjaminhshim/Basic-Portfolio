@@ -13,6 +13,7 @@
         padding-top: 60px;
         /* border-top: 2px solid gray; */
         background: url("../images/extra_clean_paper.png");
+        min-height: 100%;
     } 
     
     /* ========= HEADER ==========*/
@@ -91,7 +92,7 @@
     .article {
         width: 600px;
         float: left;
-        height: 410px;
+        height: 425px;
         color: #4aaaa5;
         font-family: 'Georgia', Times, Times New Roman, serif;
         padding-left: 30px;
